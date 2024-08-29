@@ -1,0 +1,11 @@
+{
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/seller/addProduct/page": "app/seller/addProduct/page.js",
+  "/seller/view-orders/page": "app/seller/view-orders/page.js",
+  "/login/page": "app/login/page.js",
+  "/seller/dashboard/page": "app/seller/dashboard/page.js",
+  "/buyer/cart/page": "app/buyer/cart/page.js",
+  "/seller/addStore/page": "app/seller/addStore/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/buyer/dashboard/page": "app/buyer/dashboard/page.js"
+}
